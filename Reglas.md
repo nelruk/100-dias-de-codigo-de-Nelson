@@ -4,7 +4,7 @@
 ### *Voy a programar por lo menos UNA hora al día por los próximos 100 días*
 
 #### Fecha de inicio
-30 de febrero del 2016 [Cambiar fecha aquí]
+5 de enero del 2016
 
 ## Reglas adicionales
 1. Tuitearé acerca de mi progreso todos los días usando el hashtag #100DaysOfCode
