@@ -53,3 +53,12 @@
 **Opiniones:** Enserio, que mucho me piche cuando pillé que una coma de mierda me impedía el progreso. La gran puta.
 
 **Link a mi trabajo:** [FreeCodeCamp](https://www.freecodecamp.com/challenges/testing-objects-for-properties)
+
+### Day 7: Enero 19, 2016 (JSON: the beggining)
+##### (Aprender JSON en JS)
+
+**Progreso del día**: Un dia bastante ajetreado debo decir por que he iniciado con JSON y al principio me costo y le odie pero conforme estoy pasando, cada vez se vuelve mas amigable. Ahora anote unas cuantas cosas que debo dejar.
+
+**Opiniones:** Hay que prestar mucha atencion en JSON, una cosa y nos fuimos a la B.
+
+**Link a mi trabajo:** [FreeCodeCamp](https://www.freecodecamp.com/challenges/testing-objects-for-properties)
